@@ -56,7 +56,7 @@ An intuitive iOS app for learning English vocabulary with pronunciation and favo
 ## 📫 Contact
 
 - GitHub: https://github.com/YaholaViacheslav
-- Email: your@email.com
+- Email: v.yahola@icloud.com
 
 ---
 
