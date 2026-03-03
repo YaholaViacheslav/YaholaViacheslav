@@ -31,8 +31,6 @@ An intuitive iOS app for learning English vocabulary with pronunciation and favo
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YaholaViacheslav&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YaholaViacheslav&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🎯 Currently Working On
