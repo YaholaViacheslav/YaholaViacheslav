@@ -44,7 +44,6 @@ An intuitive iOS app for learning English vocabulary with pronunciation and favo
 
 ## 🌍 About Me
 
-- 🇺🇦 Based in Ukraine  
 - 📱 Focused on mobile development  
 - 🚀 Building real-world applications  
 - 📚 Interested in EdTech products  
