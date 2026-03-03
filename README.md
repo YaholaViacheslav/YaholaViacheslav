@@ -29,7 +29,7 @@ An intuitive iOS app for learning English vocabulary with pronunciation and favo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YaholaViacheslav&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=YaholaViacheslav&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaholaViacheslav&layout=compact&theme=tokyonight)
 
