@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Viacheslav Yahola
 
-<!--
-**YaholaViacheslav/YaholaViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 iOS Developer | Swift | SwiftUI  
 
-Here are some ideas to get you started:
+I build clean, modern iOS applications and focus on creating useful mobile products for the App Store.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### 📚 WordBridge
+An intuitive iOS app for learning English vocabulary with pronunciation and favorites system.
+
+🔹 Clean UI  
+🔹 Word pronunciation  
+🔹 Favorites system  
+🔹 Built with SwiftUI  
+
+---
+
+## 🛠 Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-5-orange?logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS-blue)
+![CoreData](https://img.shields.io/badge/CoreData-Storage-lightgrey)
+![Xcode](https://img.shields.io/badge/Xcode-IDE-blue)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaholaViacheslav&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaholaViacheslavlayout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Currently Working On
+
+- Improving WordBridge
+- Publishing apps to the App Store
+- Learning advanced SwiftUI architecture
+- Expanding English learning tools
+
+---
+
+## 🌍 About Me
+
+- 🇺🇦 Based in Ukraine  
+- 📱 Focused on mobile development  
+- 🚀 Building real-world applications  
+- 📚 Interested in EdTech products  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/YaholaViacheslav
+- Email: your@email.com
+
+---
+
+⭐️ Always open to collaboration and new ideas.
